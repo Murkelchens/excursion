@@ -1,6 +1,7 @@
 body{
   font-family: Verdana;
   background-color: black;
+  text-align: center;
 }
 h1{
   font-weight: normal;
@@ -18,4 +19,27 @@ a{
 }
 .video{
   text-align: center;
+}
+.travelguide{
+  color:white;
+  font-weight:300;
+  font-size:42px;
+}
+.travelguide
+p{
+  color:gray;
+  font-size: 21px;
+}
+.campimage{
+  text-align: center;
+}
+.comingsoon{
+  color:white;
+  font-weight:300;
+  font-size:42px;
+}
+.logo{
+  font-size: 21px;
+  text-align: right;
+  color: gray;
 }
